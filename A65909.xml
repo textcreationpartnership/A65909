@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words by way of query to the teachers, and professors, called Presbyterians and Independents with a word of prophesie, in verse : also a word of exhortation and warning of love to them to haste out of Babylon, the mystery of iniquity, into Sion, the City of Holinesse : with a word at last to those that were persecutors / written by ... John Whithowse.</title>
+            <author>Whitehouse, John, fl. 1662-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65909</idno>
+            <idno type="STC">Wing W1985</idno>
+            <idno type="STC">ESTC R18048</idno>
+            <idno type="EEBO-CITATION">12547513</idno>
+            <idno type="OCLC">ocm 12547513</idno>
+            <idno type="VID">63115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 950:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words by way of query to the teachers, and professors, called Presbyterians and Independents with a word of prophesie, in verse : also a word of exhortation and warning of love to them to haste out of Babylon, the mystery of iniquity, into Sion, the City of Holinesse : with a word at last to those that were persecutors / written by ... John Whithowse.</title>
+                  <author>Whitehouse, John, fl. 1662-1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63115:1" rendition="simple:additions"/>
+            <pb facs="tcp:63115:1" rendition="simple:additions"/>
+            <p>A Few WORDS by way of QUERY; TO THE <hi>TEACHERS,</hi> and <hi>PROFESSORS,</hi> CALLED PRESBYTERIANS, And INDEPENDENTS. WITH <hi>A</hi> Word <hi>of</hi> PROPHESIE, <hi>in</hi> Verſe.</p>
+            <p>ALSO <hi>A</hi> Word <hi>of</hi> Exhortation <hi>and</hi> Warn<g ref="char:EOLhyphen"/>ing <hi>of love to them to haſte out of</hi> Babylon, <hi>the Myſtery of Iniquity, into</hi> SION, <hi>the City of Holineſſe:</hi>
+            </p>
+            <p>With A Word <hi>at laſt to thoſe that were PERSEC<g ref="char:V">Ʋ</g>TORS.</hi>
+            </p>
+            <p>Written by one that deſires the good of all men, and the Glory of God and his Truth: <hi>JOHN WHITHOWSE.</hi>
+            </p>
+            <p>Printed in the Year 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63115:2"/>
+            <pb n="3" facs="tcp:63115:2" rendition="simple:additions"/>
+            <head>A few Words by way of <hi>Querie,</hi> to the Teachers and Profeſſors, called Preſbyterians and Independents, <hi>&amp;c.</hi>
+            </head>
+            <p>WHat was the ground of your Zeal, which carried you on in the Years lately paſt, to preach and profeſſe, as you then did, ſeeing now the carnal ſword is taken from you, it is greatly fallen in you, and you are fallen from that Zealouſneſſe that then was with you?</p>
+            <p>Whether had you ever any command from God, the Higher Power, for the keeping of your Lectures, and other of your Aſſemblings your ſelves together, to preach and pray to God, as you have done? ſeeing now man commands the contrary, you let them down.</p>
+            <p>Whether was your Miniſters, and your Order of Miniſtring, ordained by the power of God, ſeeing that by the power of man you are put to ſilence; and yet not by force and violence onely, but by words of command?</p>
+            <p>But if you ſay, We are put out of our Places and Churches, and cannot do as we have done:</p>
+            <p>Then I Querie, Is not anoher Place as lawfull as that? ſeeing Chriſt ſaith, <hi>Whereſoever two or three are gathered together in my Name, there will I be in the midſt of them?</hi> And alſo the Miniſters of Chriſt, <hi>when they were put out of the Temple and Synagogues, feared not to preach the Goſpel, of which they were made Ministers,</hi> though they were commanded of men to the contrary; yet they met together in Houſes, and other Places, as the Scriptures teſtifie.</p>
+            <p>And have you not Houſes that might ſerve for that purpoſe? And if God ever ſet you on in his work, why do you not go on therein? not fearing vain man, <hi>who can but kill the body:</hi> and take your Company that have owned you and your Miniſtry, and have denyed the Common-Prayer long ago; and ſeparate your ſelves therefrom; and ſo beare a Teſtimony by your practice publickly againſt it. Or elſe, may it not be ſaid juſtly, That you are an hypocritical Company of Time-ſervers, who in the Time
+<pb n="4" facs="tcp:63115:3" rendition="simple:additions"/>of Liberty preached, and profeſſed againſt it; but now, for fear of Man, and what he may do, conforme thereunto?</p>
+            <p>Whether did <hi>Daniel</hi> well or ill, and <hi>the Three Children</hi> alſo, in diſobeying thoſe Kings Lawes, in their dayes? and bearing a Teſtimony, as Living Witneſſes for the Lord, although <hi>Daniel</hi> was but one man, to ſtand againſt a King and Nations Decree: and likewiſe the other, but Three againſt the Decree of the mightieſt King in all the Earth at that time; who thought no God could deliver out of his hand? And had <hi>Daniel</hi> ceaſed praying openly, as many of you have done, and Preaching alſo: and the other Three conformed to that worſhip, as was then commanded, as many of you have done now, to a Worſhip of the like nature; which is to ſay contrary to God: then had they not, I ſay, betrayed their God? O then, conſider what you have done, and are a doing: And alſo, How had the Ever<g ref="char:EOLhyphen"/>laſting Goſpel been publiſhed, if the Apoſtles had been of your ſpirit? when the <hi>Chief Rulers</hi> of <hi>Jeruſalem charged them to ſpeak no more in the Name of Jeſus.</hi> And ſeeing you profeſſe your ſelves to be Miniſters and Servants of him; How is it that your acti<g ref="char:EOLhyphen"/>ons are ſo quite contrary to the Faithfull Ones before menti<g ref="char:EOLhyphen"/>oned now you are tryed in like manner as they were: Upon which ground; may it not be concluded by all people, That you have had but the outſide ſhew, or Covering of the Miniſters and Servants of Chriſt, and have wanted the inſide nature all this while? <hi>Dan.</hi> 103, 16. <hi>Acts</hi> 5.28, 29.
+<q>
+                  <l>Some build on the waters, and ſome build on the ſand;</l>
+                  <l>But nought but what's o'th rock in this day will ſtand;</l>
+                  <l>For the waters will roul and toſs, and the winds will blow;</l>
+                  <l>And what's not grounded on the rock, the ſtorm will overthrow;</l>
+                  <l>For now the ſheeps covering ſhall be ript off the wolf;</l>
+                  <l>And all deceit ſhall be caſt down, into hells dark gulph,</l>
+                  <l>Whence never more it ſhall ariſe, the ſimple to deceive;</l>
+                  <l>For from all that hath made them a prize, God will them bereave:</l>
+                  <l>And they ſhall ſee, who is i'th form, but wants the power;
+<note place="margin">Eze. 34. Read the whole Chap.</note>
+                  </l>
+                  <l>For they ſhall not ſtand in his trying hour,</l>
+                  <l>Which is come, and coming on all profeſſions them to try,</l>
+                  <l>Whether they will ſuffer for their Religion, or to eſcape, it deny?</l>
+               </q>
+            </p>
+            <p>The <hi>falſe Church</hi> ſtands upon <hi>the ſand,</hi> and <hi>waters; which are peoples,
+<pb n="5" facs="tcp:63115:3" rendition="simple:additions"/>multitudes, Nations, and tongues, Rev.</hi> 17.15. which are like the toſ<g ref="char:EOLhyphen"/>ſing Sea; <hi>Iſa.</hi> 57.20. But in the New Creation there ſhall be no more Sea, <hi>Rev.</hi> 21.1. And yet the Kings of the earth ſhall bring their Glory into the Holy City new <hi>Jeruſalem</hi> therein, <hi>ver.</hi> 24. He that reads, let him underſtand; for verily the time's at hand.</p>
+            <p>TO ſuch as plead it lawfull and good to conforme to the <hi>Common-prayer,</hi> and hear the Teachers thereof, I querie thus; Whether do you believe, that it is the Spirit of God that leads and guides them to read and performe that Forme of worſhip which to the <hi>Common-prayer</hi> belongeth? which if you believe not, then how dare you joyn with them, ſeeing it is ſaid, <hi>They that are not led by the Spirit of Christ, are none of his?</hi> 1 Rom. 8.9. <hi>And they that are not for us, are againſt us,</hi> ſaith Chriſt, <hi>Luke</hi> 9.50.</p>
+            <p>Ah! How dare you that profeſſe to love Chriſt, joyn with thoſe that are againſt him, who ſaith, <hi>My ſheep hear my voyce; and a ſtrangers voice will they not follow!</hi> John 10.5. Then if you joyn with, and follow thoſe which you are convinced ſpeak not by his Spirit; do you not manifeſt your ſelves to be none of his Sheep? and if not his ſpirit, then what pſirit, then what ſpirit is it? ſeeing there is but the Spirit of God, and the ſpirit of the Devil, that doth lead or guide the ſpirits of men: O conſider, if you follow theſe, do you not erre from the Spirit of God, according to your own belief or Profeſſion in times paſt?</p>
+            <p>But if you ſay, You joyn not with them though you hear them, then I querie; What do you amongſt them? What doth the Spirit of God lead you to hear and conform with thoſe that ſpeak by another ſpirit? or do you think to benefit any thing by them towards God, that you believe are contrary to God? and if contrary to God, then they are of the Wicked one; and then the beſt of their Words and Works are ſin; for it is ſaid, <hi>The ſacrifice of the wicked is an abomination to the Lord,</hi> Prov. 15.8, 21, 27. yea, and the plowing of them is ſin: And then do you not ſin in joyning with, or hearing them in their ſin, which is the fruit of darkneſſe? And in ſo doing do you not erre from the Scripture? which you have profeſſed your Rule; which ſaith, <hi>Have no fellow<g ref="char:EOLhyphen"/>ſhip with the unfruitful works of darkneſs, but reprove them,</hi> Eph. 5.11.
+<pb n="6" facs="tcp:63115:4" rendition="simple:additions"/>and come out from amongſt them <hi>and touch not the unclean thing,</hi> ſaith the Lord, 2 <hi>Cor</hi> 6.17. <hi>and I will receive you.</hi>
+            </p>
+            <p>But if ſome of the Common-prayer Readers do preach ſome<g ref="char:EOLhyphen"/>times according to the form or manner of your Teachers which you own, and you think you may lawfully hear them in that:</p>
+            <p>Then I querie, Whether they can ſerve two Maſters in an hours time? or do the Devils work in one half hour, and Gods in another? Or be the Miniſters of Antichriſt, and of Chriſt, both in one hour? Or whether are they not of that ſpirit, as thoſe were, which the Apoſtle ſpeaks of, who with good words and fair Speeches deceive the heart of the ſimple?—or may they not have <hi>a Form of the words of Godlineſſe, and yet deny, and be enemies to the power thereof.</hi> And do you not deny the Apoſtles Exhortation in the Scripture, your profeſſed Rule, ex<g ref="char:EOLhyphen"/>cept you deny and turn away from them? 2 <hi>Tim.</hi> 3.5.</p>
+            <p>Theſe things are not written to accuſe you, nor to condemn any thing that is good in you; but rather to provoke you to be zealous in it, and for it: Alſo to put you in minde, to conſider, That much of your zeal in times paſt ſprung not from the power of God, but from your own wills and ſtrength; which is manifeſt<g ref="char:EOLhyphen"/>ed by the falling of it: Now the power and arm of fleſh is fallen from you, that which is of men will come to nought: But that which is of God, Men cannot overthrow, <hi>Acts</hi> 5.38, 39.</p>
+            <p>So every one that hath any ſincere deſires in you after God, or tenderneſſe of conſcience in you in this day of tryal, take heed how you conform or bow to any thing contrary to that tender Principle in you: for if you do, it will murder thoſe deſires, and alſo deaden and cool the true zeal that is in you; which will not be the way for you to increaſe, but decreaſe to God. Therefore be revived in the true zeal of God, which moves in you, againſt every appearance of evil; and be zealous for <hi>Sion</hi> the City of Holineſſe, the habitation of God: and come out of <hi>Babylon,</hi> the Myſtery of Iniquity, <hi>and abomination of the Earth;</hi> and partake not of her ſin; for if you do, you muſt taſte of her Plagues; the Lord God will not ſpare you.
+<q>
+                  <l>For he wil burn her wals, towers, &amp; buildings, both wood, ſtubble, &amp; ſtones,</l>
+                  <l>and againſt the wals wil he daſh &amp; break al her childrens bones;
+<note place="margin">Je. 51.58</note>
+                  </l>
+                  <pb n="7" facs="tcp:63115:4" rendition="simple:additions"/>
+                  <l> And if then in or under her skirts you be found;</l>
+                  <l>Then, with his terrible dart he'l ſmise you to the ground:</l>
+                  <l>Therefore out of her coaſts ſee that you haſte and fly;
+<note place="margin">Jerem. 51.45.</note>
+                  </l>
+                  <l>For all that in her live and dwel, a perpetual death muſt die:
+<note place="margin">ver. 57, 39.</note>
+                  </l>
+                  <l>But Sion ſhall ſtand ſafely, for in her's the corner ſtone,
+<note place="margin">Iſa. 28.16.61.9</note>
+                  </l>
+                  <l>And bleſt ſhall that man be, that lays on it his foundation.</l>
+                  <l>So all out of the darkneſſe come, turn in unto the light,
+<note place="margin">John 12 35, 36.</note>
+                  </l>
+                  <l>For without it you cannot ſee to lay your building right,</l>
+                  <l>So the Lord direct all the true deſires</l>
+                  <l>After his life, through the wilderneſſe; and all the cryers</l>
+                  <l>Therein, whoſe faces are turned towards Sion, and make</l>
+                  <l>All the hard things eaſie before them, and every crooked way ſtrait;</l>
+                  <l>That into Sions coaſts they may come, where none are croſt, but bleſt;</l>
+                  <l>And a habitation they may know, even in the Land of reſt,</l>
+                  <l>Wherein the Sabboth day is kept, which never ſhall have end:</l>
+                  <l>In theſe deſires my ſoul doth reſt, in which I am your friend.</l>
+               </q>
+            </p>
+            <div type="part">
+               <head>A word to thoſe that were <hi>Perſecutors</hi> in the time of their proſperity.</head>
+               <q>
+                  <l>Remember you the days of your proſperity, how twas ſaid oft to you then,</l>
+                  <l>That what you meaſured to others ſhould be meaſured to you again.</l>
+                  <l>But then you ſtopt your eares, hardened your hearts, and would neither hear nor ſee:</l>
+                  <l>But now a day of perſecution on you is come, in which it fulfilled ſhall be:</l>
+                  <l>For many by you were caſt into priſon, their goods alſo deſtroyd;</l>
+                  <l>Of Juſtice, Equity, Mercy, or Law, by you they were denyd:</l>
+                  <l>Now thus in this day to you dont, in this day it will be;</l>
+                  <l>Unleſſe you will turn to your vomit again, and owne Idolatry.</l>
+               </q>
+               <p>Remember <hi>little Joſeph was hated</hi> and perſecuted <hi>of his Brethren:</hi> what was the reaſon? Becauſe their Father lov'd him beſt, therefore they grudged: alſo, becauſe the Lord ſhewed more to him then to them; for which they hated him the more, <hi>Gen.</hi> 37.5. and ſcorned at him, <hi>v.</hi> 19. and made a Conſpiracy againſt him to deſtroy him: yet <hi>the Lord was with him,</hi> and bleſt him, and brougth them down to bow before him; and yet notwithſtanding all this which they
+<pb n="8" facs="tcp:63115:5" rendition="simple:additions"/>did to him, he loved them freely, <hi>&amp; his bowels yearned towardeds them;</hi> and he gladly received them in the time of their diſtreſſe. O Re<g ref="char:EOLhyphen"/>member and conſider this, and be not envious againſt <hi>little Joſeph,</hi> whoſe love and bowels towards you yearneth, which is, and ſhall be manifeſted unto you: For a famine is entered into your land, and ſcarcity amongſt your dwellings; But <hi>Joſephs</hi> habitation is in a fruitfull Land; for his Store houſes are full, yea, and his fatt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> overflow: Therefore be not ſtiff in your mindes, neither think it a diſgrace to receive at his hand; for you muſt bow, the Lord hath ſaid it, elſe you muſt periſh in this dry and gloomy day, wherein all the ſprings and rivers, but what comes from the in<g ref="char:EOLhyphen"/>viſible, will dry away; at which <hi>Joſeph</hi> ſhall drink, and be kept alive, which as the Willows of the Brook ſhall make his ſoul to-thrive:
+<q>
+                     <lg>
+                        <l>Therefore come in the ſimple love, take Joſeph by the bend;</l>
+                        <l>And he will lead you to the well, which doth wide open ſtand:</l>
+                        <l>Out of which the Streams of Life do runne freely:</l>
+                        <l>Where all may freely drink, for none needs to buy,
+<note place="margin">Iſa. 55.1.</note>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Praiſes everlaſting, Halelujah to Sion's King;</l>
+                        <l>For out of him the living Rock,</l>
+                        <l>the water pure doth ſpring,</l>
+                        <l>Which doth refreſh the weary,</l>
+                        <l>and make glad the poor:</l>
+                        <l>Therefore let him have the honour,</l>
+                        <l>now, and for evermore.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>
+                  <q>He that hath an eare to hear, let him hear, and fear. For he that loves father, or mother, wife or children, houſes or land, gold or ſilver, life or li<g ref="char:EOLhyphen"/>berty, or any thing elſe better then the Kingdom of God, in that ſtate he muſt never come there.</q>
+               </p>
+               <p>Now, he that con<g ref="char:EOLhyphen"/>formes to Idolatry for fear of loſing theſe things, the fame is he that lovs them better than the Kingdome of God, <hi>The</hi> 1 Epiſt. of <hi>John.</hi> 2, 15, 16, 17. <hi>Jam.</hi> 4.4.</p>
+               <p>This is the hard Saying, that canſeth the Earthly Minde to draw back.</p>
+            </div>
+            <closer>
+               <signed>John Whithowſe.</signed>
+               <dateline>Given from my hand <date>the 19 day of the 8 <hi>Month,</hi> 1662.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63115:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
